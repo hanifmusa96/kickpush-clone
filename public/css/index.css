@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+
+body{
+    background-color:#ee5050;
+    font-family:'Roboto Condensed', sans-serif;
+}
+section{
+    height:100vh;
+}
+.brand-name{
+    font-weight:700;
+    font-size:34px;
+}
+
+.color-desire-text{
+    color:#cf3a3a;
+}
+
+.text-statement{
+    font-family: 'Anton', sans-serif;
+}
+
+
+.nav-color{
+    background-color:#ee5050;
+    
+}
+
+.nav1-position{
+    position: fixed;
+    
+}
+
